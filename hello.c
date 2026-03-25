@@ -3,7 +3,9 @@
  * prints "Hello World"
  * to the screen
  *
- * 2026  Rudy Matela
+ * 2026  Rudy Matela & Cooler Rudy
+ *
+ * This is indeed very cool.
  */
 #include <stdio.h>
 
