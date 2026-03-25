@@ -13,3 +13,12 @@ program.
 * item 3
 
 This is __bold__ and this is _italic_.
+
+
+## Members
+
+| Name        | JU Email          | GitHub Handle |
+| ----------  | ----------------- | ------------- |
+| Rudy Matela | rudy.matela@ju.se | rudymatela |
+| Lucy        |  ....             | .... |
+
