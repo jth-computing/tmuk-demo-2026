@@ -1,0 +1,8 @@
+# .gitignore for the hello project
+#
+# lines like this are comments
+#
+# you just list patterns that you want to exclude
+
+*.o
+hello
