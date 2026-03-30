@@ -6,6 +6,10 @@ This is my very cool demonstration project for the TMUK Course.
 We use the C language to implement a very complex hello world
 program.
 
+We track our work in the [Kanban board][].
+
+[Kanban board]: https://github.com/orgs/jth-computing/projects/5/
+
 ## Section
 
 * item 1
