@@ -10,13 +10,11 @@ We track our work in the [Kanban board][].
 
 [Kanban board]: https://github.com/orgs/jth-computing/projects/5/
 
-## Section
+## Features
 
-* item 1
-* item 2
-* item 3
-
-This is __bold__ and this is _italic_.
+* prints hello world
+* its __nice__
+* etc
 
 
 ## Members
