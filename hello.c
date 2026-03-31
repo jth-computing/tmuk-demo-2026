@@ -10,5 +10,6 @@
 int main()
 {
 	printf("Hello World!\n");
+	puts("Hello Everyone");
 	return 0;
 }
