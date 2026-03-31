@@ -2,4 +2,7 @@
 
 all: hello
 
+run: all
+	./hello
+
 hello: hello.c
