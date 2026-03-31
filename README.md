@@ -10,6 +10,17 @@ We track our work in the [Kanban board][].
 
 [Kanban board]: https://github.com/orgs/jth-computing/projects/5/
 
+## Compiling and running
+
+To compile the project, run:
+
+	make
+
+To run the program, run:
+
+	make run
+
+
 ## Features
 
 * prints hello world
