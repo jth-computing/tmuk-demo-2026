@@ -12,6 +12,5 @@
 int main()
 {
 	printf("Hello, World!\n");
-	printf("Hello, Everyone!\n");
 	return 0;
 }
