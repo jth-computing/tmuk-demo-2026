@@ -20,6 +20,18 @@ To run the program, run:
 
 	make run
 
+If you run without arguments,
+you get a "Hello, World" message:
+
+	./hello
+	Hello World!
+
+If you run with an argument,
+you get a customized hello message:
+
+	./hello Everyone
+	Hello Everyone!
+
 
 ## Features
 
