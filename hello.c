@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 	if (argv[1]) {
 		printf("Hello %s\n", argv[1]);
 	} else {
-		puts("Hello World!")
+		puts("Hello World!");
 	}
 	return 0;
 }
